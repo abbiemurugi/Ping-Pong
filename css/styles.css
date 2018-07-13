@@ -1,0 +1,12 @@
+#p2{
+    background-color: blueviolet;
+    height: 150px;
+    display: grid;
+    width: 100%;
+    text-align: center
+}
+#info{
+    color: blue;
+    background: black;
+    height: 100%;
+}
