@@ -8,10 +8,6 @@ $("form#abby").click(function(event){
 else if(i%5===0){$("ul#list").append("<li> ping </li>");}
 else {$("ul#list").append("<li>" + i + "</li>");}
     };
-
-
-
-
 });
 });
 
